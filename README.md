@@ -22,7 +22,7 @@ degrees left or right respectively, without moving from its current spot.
 Assume that the square directly North from (x, y) is (x, y+1).
 
 INPUT:
-The first line of input is the upper-right coordinates of the plateau, the
+<br>The first line of input is the upper-right coordinates of the plateau, the
 lower-left coordinates are assumed to be 0,0.
 
 The rest of the input is information pertaining to the rovers that have
@@ -38,19 +38,19 @@ won't start to move until the first one has finished moving.
 
 
 OUTPUT
-The output for each rover should be its final co-ordinates and heading.
+<br>The output for each rover should be its final co-ordinates and heading.
 
 INPUT AND OUTPUT
 
 Test Input:
-5 5
-1 2 N
-LMLMLMLMM
-3 3 E
-MMRMMRMRRM
+<br>5 5<br>
+1 2 N<br>
+LMLMLMLMM<br>
+3 3 E<br>
+MMRMMRMRRM<br>
 
-Expected Output:
-1 3 N
+Expected Output:<br>
+1 3 N<br>
 5 1 E
 
 INSTRUCTIONS
