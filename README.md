@@ -55,10 +55,9 @@ Expected Output:<br>
 
 INSTRUCTIONS
 -------------
-open up a command prompt root folder:
+open up a command prompt root folder:<br><br>
+to run the tests:<br>
+$ ruby unit_test_script.rb<br><br>
 
-to run the tests:
-$ ruby unit_test_script.rb
-
-to run the program:
+to run the program:<br>
 $ ruby execute.rb < test_cases.txt
